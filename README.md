@@ -1,4 +1,3 @@
- Course JDA 1 Git&GitHub 
-## Fitur Baru
+This Repository is an output from what i learned on jabar digital academy bootcamp that held on 2025 
 
-Kami sedang mengembangkan fitur baru untuk proyek ini, yang akan meningkatkan fungsionalitas secara signifikan.
+to be noted i just learn about coding and want to be a programmer from scratch. i don't have any tech backgroudng even my bachelor degree i'll go soon is on education major 
