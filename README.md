@@ -11,3 +11,4 @@ In this Repository I will upload every type of code that I have learned like
 -if-else
 -if
 
+also in this Repository i'm only allowed to upload it onmy github only 1 contribution per day 
