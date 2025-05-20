@@ -11,4 +11,6 @@ In this Repository I will upload every type of code that I have learned like
 -if-else
 -if
 
-also in this Repository i'm only allowed to upload it onmy github only 1 contribution per day 
+Note
+- also in this Repository i'm only allowed to upload it onmy github only 1 contribution per day 
+- i will add a new branch for every new coding segment i have learn from the bootcamp 
