@@ -15,4 +15,11 @@ Note
 - also in this Repository i'm only allowed to upload it onmy github only 1 contribution per day 
 - i will add a new branch for every new coding segment i have learn from the bootcamp 
 - maybe it looks repetitive but i do that way iwth a reason so i really know about the interface an used to that 
-- 
+-
+
+bootcamp 
+1. Ooredo bootcamp
+2. Dicoding 
+3. DBS Foundation
+4. Microsoft ElevaitAI
+5. Jabar Digital Academy
