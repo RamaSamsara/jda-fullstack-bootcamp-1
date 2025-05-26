@@ -19,8 +19,8 @@ Note
 
 
 bootcamp 
-1. Ooredo bootcamp
-2. Dicoding 
-3. DBS Foundation {JS}
-4. Microsoft ElevaitAI {C++}
-5. Jabar Digital Academy
+1. Ooredo bootcamp {JS} [front-end]
+2. Dicoding {JS+Python} [fullstack] [datascience]
+3. DBS Foundation {JS} [fullstack]
+4. Microsoft ElevaitAI {C++} [ai-engineering]
+5. Jabar Digital Academy {JS} [fullstack]
