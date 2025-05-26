@@ -21,6 +21,6 @@ Note
 bootcamp 
 1. Ooredo bootcamp
 2. Dicoding 
-3. DBS Foundation
-4. Microsoft ElevaitAI
+3. DBS Foundation {JS}
+4. Microsoft ElevaitAI {C++}
 5. Jabar Digital Academy
