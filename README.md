@@ -17,10 +17,10 @@ Note
 - I will add a new branch for every new coding segment i have learn from the bootcamp 
 - Maybe it looks repetitive but i do that way iwth a reason so i really know about the interface an used to that 
 
-
 bootcamp 
 1. Ooredo bootcamp {JS} [front-end]
 2. Dicoding {JS+Python+SQL} [fullstack] [datascience]
 3. DBS Foundation {JS} [fullstack]
 4. Microsoft ElevaitAI {C++} [ai-engineering]
 5. Jabar Digital Academy {JS} [fullstack]
+6.
