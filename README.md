@@ -10,6 +10,8 @@ In this Repository I will upload every type of code that I have learned like
 - if
 - recursion 
 - array
+- css
+- html
 
 Note
 - To be noted i just learn about coding and want to be a programmer from scratch. i don't have any tech backgroudng even my bachelor degree i'll got soon is in education major 
@@ -23,4 +25,3 @@ bootcamp
 3. DBS Foundation {JS} [fullstack]
 4. Microsoft ElevaitAI {C++} [ai-engineering]
 5. Jabar Digital Academy {JS} [fullstack]
-6.
