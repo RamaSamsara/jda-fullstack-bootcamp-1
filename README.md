@@ -27,4 +27,4 @@ bootcamp i held
 5. Jabar Digital Academy {JS} [fullstack] [Digital Marketing Business]
 6. Google Dev {Python} [AI]
 
-i'm still thingking what i need to add 
+counting part [1]
