@@ -27,4 +27,4 @@ bootcamp i held
 5. Jabar Digital Academy {JS} [fullstack] [Digital Marketing Business]
 6. Google Dev {Python} [AI]
 
-counting part [1, 2, 3, 4, 5, 6, 7, 8, 9]
+counting part [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
